@@ -1,7 +1,7 @@
 # Tugas Besar TBFO
 # The Sims Simulator
 # Rakha Fadhilah 13518097
-# David Gozali 13518
+# David Gozaly 13518118
 
 import sys
 
